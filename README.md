@@ -8,6 +8,7 @@ gcc min_to_max.c -o min_to_max  -I/usr/pgsql-13/include/server -L/usr/lib64 -lpq
 
 Format to run it:
 _filename arg1 arg2_
+
 Example:
 _min_to_max column_name table_name_   
 --- use the column and the table name whose aggregate needs to be calulated. This has been tested to work on data types - integer, char, date.
