@@ -10,7 +10,7 @@ Format to run it:
 _filename arg1 arg2_
 
 Example:
-_min_to_max column_name table_name_   
+_min_to_max  <column_name>   <table_name>_   
 --- use the column and the table name whose aggregate needs to be calulated. This has been tested to work on data types - integer, char, date.
 
 2. **max aggregate code on postgresql DB**
