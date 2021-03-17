@@ -4,7 +4,7 @@ Manually creating aggregate to calculate max and min for different datatypes (in
 Following code files are uploaded in this repo.
 They have been tested on:
 
-Community Postgresql 13.2 and 12.6
+Community Postgresql 13.2 and 12.6. 
 RHEL/CentOS 7 and 8
 
 1. **min_to_max.c Source file**
